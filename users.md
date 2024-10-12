@@ -8,3 +8,7 @@
   **Roll Number**: 2401010436<br>
   **Email ID**: tajuddinshaik786r@gmail.com<br>
   **GitHub ID**: Taj-786
+  - **Name**: Ashrith R<br> 
+  **Roll Number**: 2401010362<br> 
+  **Email ID**: ashrith.7j@gmail.com<br> 
+  **GitHub ID**: ashrith-07
